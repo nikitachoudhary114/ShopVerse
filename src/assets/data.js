@@ -5,19 +5,19 @@ import p3_img from './product_5.png'
 
 let data_product = [
   {
-    id:1,
+    id:15,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
     image:p1_img,
     new_price:50.00,
     old_price:80.50,
   },
-  {id:2,
+  {id:32,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
     image:p2_img,
     new_price:85.00,
     old_price:120.50,
   },
-  {id:3,
+  {id:5,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
     image:p3_img,
     new_price:60.00,
