@@ -10,14 +10,13 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 function App() {
   return (
-    <div className="app">
+    <div className="app bg-gray-900 text-gray-100">
       <Navbar />
-
       <Routes>
         <Route path="/new" element={<New />} />
         <Route path="/new/:newId" element={<Product />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
